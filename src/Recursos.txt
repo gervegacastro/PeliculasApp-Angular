@@ -1,0 +1,16 @@
+
+https://developer.themoviedb.org/docs/getting-started
+
+https://www.themoviedb.org/?language=es
+
+Clave de la api 
+56e85f794a70b242510d807cafab7fef
+
+Token de acceso de lectura a la api 
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1NmU4NWY3OTRhNzBiMjQyNTEwZDgwN2NhZmFiN2ZlZiIsInN1YiI6IjY1NDRmMzcxOWNjNjdiMDBkZjkyNzFjZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.WZkemxn7pv3tN5di0FanvI1ERJu6lG5Ly1c_rhSX4Ag
+
+Usuario 
+pelucatele22 
+
+contraseña 
+Pelucatele22 
